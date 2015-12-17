@@ -30,5 +30,4 @@ Fortunately there is a change to clj-xpath on the way that will disable this fea
 
 Copyright © 2015 Nick Cotter
 
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+Do with this as thou wilts.
